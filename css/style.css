@@ -34,7 +34,7 @@
     
     body {
         color: var(--text-color);
-        background: var(--dark-color);
+        background: linear-gradient(to right, rgb(11, 11, 11), rgb(0, 0, 0));
     }
     
     .container {
